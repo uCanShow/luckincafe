@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<beans>
+    <bean id="add" class="com.wumx.javaweb.servlet.AddServlet" />
+</beans>
